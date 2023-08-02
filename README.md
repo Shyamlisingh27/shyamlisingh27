@@ -13,8 +13,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Shyamlisingh27/shyamlisingh27/assets/119340978/53aab94c-2c56-4fde-b766-683acb3410ad)
-" alt="html" width="40" height="40"/> </a> <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Shyamlisingh27/shyamlisingh27/assets/119340978/e4837573-8fde-4bdd-b78d-b2ad660997b0)
-" alt="css" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="" alt="html" width="40" height="40"/> </a> <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="" alt="css" width="40" height="40"/> </a></p>
 
 
