@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 technical skills - **programmind in c,java,dsa in java,web development**
+- 🌱 technical skills - **programming in c,java,dsa in java,web development**
 
 - 📫 How to reach me **shyamlinik27@gmail.com**
 
