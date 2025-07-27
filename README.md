@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shyamli singh</h1>
-<h3 align="center">I am currently pursuing my Btech degree in information science and Engineering branch from Bangalore institute of technology</h3>
+<h3 align="center"> Ex-Intern @NVIDIA | JAVA | Spring Boot | C# | MERN | SQL | DSA | Information Science and Engineering @Bangalore Institute of Technology'2025 </h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 technical skills - **programming in c,java,dsa in java,web development- html,css,javascript, Reactjs,Nodejs,Express,MongoDb**
+- 🌱 technical skills - **programming languages- Java, C#, Python, DSA in java  Web Development- Reactjs, Nodejs, Express, Html, Css, Javascript  Databases- SQL, MongoDb**
 
 - 📫 How to reach me **shyamlinik27@gmail.com**
 
