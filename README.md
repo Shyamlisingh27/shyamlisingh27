@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 technical skills - **programming languages- Java, C#, Python, DSA in java  Web Development- Reactjs, Nodejs, Express, Html, Css, Javascript  Databases- SQL, MongoDb**
+- 🌱 technical skills - **programming languages- Java, C#, Python, DSA in java  
+Web Development- Reactjs, Nodejs, Express, Html, Css, Javascript  
+Databases- SQL, MongoDb**
 
 - 📫 How to reach me **shyamlinik27@gmail.com**
 
